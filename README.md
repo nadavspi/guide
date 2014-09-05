@@ -15,8 +15,9 @@
 ## CSS
 * http://learnlayout.com/
 * http://adamschwartz.co/magic-of-css/
-* http://csswizardry.com/2012/11/code-smells-in-css/
+* http://modernweb.com/2013/08/12/writing-better-css/
 * http://keithwyland.com/2014/02/04/css-selectors.html
+* http://csswizardry.com/2012/11/code-smells-in-css/
 * http://www.heydonworks.com/article/tetris-and-the-power-of-css
 * http://css-tricks.com/
 
