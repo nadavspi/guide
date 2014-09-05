@@ -39,6 +39,7 @@
 * http://www.sitepoint.com/css-sass-styleguide/
 
 ## Responsive design
+* http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/
 * http://bradfrost.github.io/this-is-responsive/
 
 ## Workflow
