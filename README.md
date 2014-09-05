@@ -8,7 +8,7 @@
 * Workflow tool: https://github.com/nvie/gitflow
 
 ## HTML
-* http://diveintohtml5.info/
+* http://diveintohtml5.info/semantics.html
 * http://html5doctor.com/lets-talk-about-semantics/
 * http://diveintohtml5.info/forms.html
 
