@@ -25,6 +25,7 @@
 * http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
 * http://philbaker.me/blog/2014/02/css-class-naming-and-bem-contemporary-practice/
 * http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
+* [Scalable and Modular Architecture for CSS (SMACSS)](https://smacss.com/)
 * Jonathan Snook, "CSS is a Mess": http://vimeo.com/99877232
 * Heydon Pickering, "Effortless Style": http://vimeo.com/101718785
 
