@@ -1,4 +1,4 @@
-A running list of resources I consider valuable for being a responsible, well-rounded front end developer & designer. Reflects my work and interests, which lean heavily toward HTML and CSS, rather than including [everything but the kitche sink](https://github.com/dypsilon/frontend-dev-bookmarks).
+A running list of resources I consider valuable for being a responsible, well-rounded front end developer & designer. Reflects my work and interests, which lean heavily toward HTML and CSS, rather than including [everything but the kitchen sink](https://github.com/dypsilon/frontend-dev-bookmarks).
 
 ## Git
 
