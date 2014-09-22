@@ -46,3 +46,10 @@
 
 ## Workflow
 * Learning Gulp: http://hmphry.com/gulp/
+
+## Libraries/scripts
+* [html5shiv](https://code.google.com/p/html5shiv/)
+* [Respond.js](https://github.com/scottjehl/Respond)
+* [Picturefill](https://github.com/scottjehl/picturefill)
+* [FitVids](https://github.com/davatron5000/FitVids.js/)
+* [Tablesaw](https://github.com/filamentgroup/tablesaw)
