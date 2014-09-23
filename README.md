@@ -45,6 +45,7 @@ A running list of resources I consider valuable for being a responsible, well-ro
 ## Responsive design
 * http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/
 * http://bradfrost.github.io/this-is-responsive/
+* http://blog.cloudfour.com/dont-use-picture-most-of-the-time/
 
 ## Accessibility
 * On img alt text: http://www.w3.org/WAI/tutorials/images/
