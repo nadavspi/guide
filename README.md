@@ -75,3 +75,4 @@ A running list of resources I consider valuable for being a responsible, well-ro
 * [Picturefill](https://github.com/scottjehl/picturefill)
 * [FitVids](https://github.com/davatron5000/FitVids.js/)
 * [Tablesaw](https://github.com/filamentgroup/tablesaw)
+* [Anything from Filament Group, really](http://www.filamentgroup.com/code/)
