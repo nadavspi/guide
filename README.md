@@ -6,7 +6,7 @@ A running list of resources I consider valuable for being a responsible, well-ro
 
 ### SSH
 * [SSH login without password](http://www.linuxproblem.org/art_9.html)
-* [http://mah.everybody.org/docs/ssh](http://mah.everybody.org/docs/ssh)
+* [Using ssh-agent with ssh](http://mah.everybody.org/docs/ssh)
 * On Mac OS X, `ssh-add -K ~/.ssh/id_dsa` loads the key into Keychain so you never have to launch the agent again.
 
 ### Git
