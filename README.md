@@ -52,6 +52,8 @@ A running list of resources I consider valuable for being a responsible, well-ro
 * [Tips for Creating Accessible SVG](http://www.sitepoint.com/tips-accessible-svg/)
 
 ## Responsive design
+* [Where to Start by Trent Walton](http://trentwalton.com/2013/02/07/where-to-start/)
+* [Device-Agnostic by Trent Walton](http://trentwalton.com/2014/03/10/device-agnostic/)
 * http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/
 * http://bradfrost.github.io/this-is-responsive/
 * http://blog.cloudfour.com/dont-use-picture-most-of-the-time/
