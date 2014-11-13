@@ -68,6 +68,7 @@ A running list of resources I consider valuable for being a responsible, well-ro
 
 ## Workflow
 * Learning Gulp: http://hmphry.com/gulp/
+* [Front-end Tooling Workflows by Addy Osmani](https://speakerdeck.com/addyosmani/front-end-tooling-workflows)
 
 ## Libraries/scripts
 * [html5shiv](https://code.google.com/p/html5shiv/)
