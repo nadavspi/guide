@@ -60,7 +60,7 @@ A running list of resources I consider valuable for being a responsible, well-ro
 
 ## Coding style guides
 * http://codeguide.co/
-* http://www.sitepoint.com/css-sass-styleguide/
+* http://sass-guidelin.es/
 * https://github.com/airbnb/javascript
 
 ## Accessibility
