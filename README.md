@@ -70,7 +70,7 @@ A running list of resources I consider valuable for being a responsible, well-ro
 * [Bulletproof Accessible Icon Fonts](http://filamentgroup.com/lab/bulletproof_icon_fonts.html)
 
 ## Workflow
-* Learning Gulp: http://hmphry.com/gulp/
+* Learning Gulp: http://hmphry.com/articles/learning-gulp
 * [Front-end Tooling Workflows by Addy Osmani](https://speakerdeck.com/addyosmani/front-end-tooling-workflows)
 
 ## Libraries/scripts
